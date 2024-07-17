@@ -8,15 +8,6 @@ const questions = [
             {text: "d) Brisbane", correct: false}
         ]
     },
-     {
-        question: "What is the capital city of India?",
-        answers:[
-            {text: "a) Mumbai", correct: false},
-            {text: "b) Delhi", correct: true},
-            {text: "c) Bengaluru", correct: false},
-            {text: "d) Kochi", correct: false}
-        ]
-    },
     {
         question: "Who wrote the play 'Romeo and Juliet'?",
         answers:[
@@ -42,15 +33,6 @@ const questions = [
             {text: "b) Blue Whale", correct: true},
             {text: "c) Giraffe", correct: false},
             {text: "d) Gorilla", correct: false}
-        ]
-    },
-     {
-        question: "What is the busiest railway station in India?",
-        answers:[
-            {text: "a) CSMT", correct: false},
-            {text: "b) MGR Chennai Central", correct: false},
-            {text: "c) New Delhi", correct: false},
-            {text: "d) Howrah Junction", correct: True}
         ]
     },
     {
@@ -105,42 +87,6 @@ const questions = [
             {text: "b) 1920", correct: false},
             {text: "c) 1905", correct: false},
             {text: "d) 1931", correct: false}
-        ]
-    },
-     {
-        question: "Who is the Prime Minister of India?",
-        answers:[
-            {text: "a) APJ Abdul Kalam", correct: false},
-            {text: "b) Mahatma Gandhi", correct: false},
-            {text: "c) Narendra Modi", correct: True},
-            {text: "d) Donald Trump", correct: false}
-        ]
-    },
-     {
-        question: "What is the capital city of Australia?",
-        answers:[
-            {text: "a) Sydney", correct: false},
-            {text: "b) Canberra", correct: true},
-            {text: "c) Melbourne", correct: false},
-            {text: "d) Brisbane", correct: false}
-        ]
-    },
-     {
-        question: "What Country has the largest railway network in the world?",
-        answers:[
-            {text: "a) United States", correct: True},
-            {text: "b) China", correct: false},
-            {text: "c) Japan", correct: false},
-            {text: "d) India", correct: false}
-        ]
-    },
-     {
-        question: "In India,15th August is celebrated as... ",
-        answers:[
-            {text: "a) Diwali", correct: false},
-            {text: "b) Republic Day", correct: true},
-            {text: "c) New year", correct: false},
-            {text: "d) Independence Day", correct: True}
         ]
     },
 ];
